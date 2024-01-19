@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,900&display=swap");
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.profile-pic {
+  height: 400px;
+  background-image: url("../images/issa.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#hero {
+  background-color: rgb(240, 240, 240);
+}
