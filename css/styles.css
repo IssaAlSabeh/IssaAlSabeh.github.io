@@ -4,13 +4,6 @@ body {
     "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
-.profile-pic {
-  height: 400px;
-  background-image: url("../images/issa.jpg");
-  background-size: cover;
-  background-position: center;
-}
-
 #hero {
   background-color: rgb(240, 240, 240);
 }
